@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository
 <br>
-Author-Avinash Kumar
+Author-Avinash Kumar(Amazon)
